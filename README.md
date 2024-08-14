@@ -1,2 +1,4 @@
-# web-231
-WEB231 Enterprise JavaScript l
+# H1 WEB 231 Enterprise JavaScript I
+## H2 Contributors
+* Richard Krasso
+* Wendy Rzechula
