@@ -5,7 +5,7 @@
 
       Project to validate a form used for setting up a new account
       Author: 
-      Date:   
+      Date:    
 
       Filename: project07-01.js
 */

@@ -19,9 +19,9 @@ let imgFiles = ["photo01.jpg", "photo02.jpg", "photo03.jpg", "photo04.jpg",
 // Captions associated with each image
 let imgCaptions = new Array(12);
 imgCaptions[0]="Sky Pond (Rocky Mountain National Park)";
-imgCaptions[1]="Buffalo on the Plains (South Dakota)"; 
-imgCaptions[2]="Garden of the Gods (Colorado Springs)"; 
-imgCaptions[3]="Elephant Head Wild Flower (Rocky Mountain National Park)"; 
+imgCaptions[1]="Buffalo on the Plains (South Dakota)";
+imgCaptions[2]="Garden of the Gods (Colorado Springs)";
+imgCaptions[3]="Elephant Head Wild Flower (Rocky Mountain National Park)";
 imgCaptions[4]="Double Rainbow (Colorado National Monument)";
 imgCaptions[5]="Moose in the Wild (Grand Lake, Colorado)";
 imgCaptions[6]="Camas Wild Flower (Rocky Mountain National Park)";
